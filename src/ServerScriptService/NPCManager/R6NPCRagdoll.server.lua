@@ -1,0 +1,1 @@
+require(game.ServerScriptService.PlayerSetup.ModuleScript):Setup(script.Parent)
